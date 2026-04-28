@@ -1,0 +1,41 @@
+* {
+    margin: 0 auto;/*centralizar para resposividade*/
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+body {
+    background-image: url(img/fundo\ castelo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(146, 13, 255);
+     font-family: "Lilita One", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+    text-align: left;
+}
+.main{
+    background-color: rgba(255, 235, 205, 0.212);
+    width: 50%;
+    padding: 20px;
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid rgb(0, 0, 0);
+     box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(219, 42, 255);
+font-family: "Archivo Black", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+ 
+ 
